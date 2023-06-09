@@ -31,7 +31,7 @@
     "axios": "^1.4.0",
     "cdk-backup-plan": "^0.0.6",
     "class-transformer": "^0.5.1",
-    "constructs": "10.1.156",
+    "constructs": "10.2.47",
     "date-fns": "^2.30.0",
     "digest-fetch": "^3.0.4",
     "geojson-to-wfs-t-2": "^1.5.2",
